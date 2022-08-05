@@ -1,0 +1,17 @@
+{
+  "name": "sandbox-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yoti": "3.22.0"
+  },
+  "devDependencies": {
+    "@getyoti/sdk-sandbox": "1.6.0"
+  }
+}
